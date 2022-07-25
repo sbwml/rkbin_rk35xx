@@ -21,11 +21,19 @@ channel mask=
 stride type=
 standby_idle=
 
+ext_temp_ref_en=
+ecc_en=
+per_bank_ref_en=
+derate_en=
+auto_precharge_en=
+
+res_space_remap_partion=
+res_space_remap_all=
+
 rd_vref_scan_en=
 wr_vref_scan_en=
 eye_2d_scan_en=
 
-res_space_remap=
 dis_printf_training=
 
 ssmod_downspread=
